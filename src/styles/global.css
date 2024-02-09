@@ -1,6 +1,7 @@
 html.dark {
-  background-color: #0d0950;
+  background-color: #030216;
   color: #fff;
+  font-family: 'Poppins', sans-serif;
 }
 
 .dark .nav-links a {
@@ -67,5 +68,3 @@ a:focus {
     display: none;
   }
 }
-
-
